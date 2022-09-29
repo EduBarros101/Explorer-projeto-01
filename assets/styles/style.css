@@ -4,13 +4,14 @@
   box-sizing: border-box;
 }
 
-span,
-a {
-  color: #ff9900;
+#hero {
+  width: 592px;
+  margin: 0 auto;
 }
 
 body {
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
 }
 
 h1 {
@@ -26,4 +27,9 @@ h1 span {
 
 p {
   color: #7d7987;
+}
+
+span,
+a {
+  color: #ff9900;
 }
