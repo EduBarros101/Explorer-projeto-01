@@ -32,6 +32,21 @@ ul {
   display: flex;
   gap: 28px;
   justify-content: center;
+
+  font-size: 14px;
+  line-height: 28px;
+}
+
+#line {
+  width: 568px;
+  border: 1px solid #eceff2;
+  margin: 0 auto 8px;
+}
+
+#balls {
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
 
 body {
